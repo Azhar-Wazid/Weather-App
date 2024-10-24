@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="CurrentWeatherIcon">Weather Icon</string>
+    <string name="HumidityIcon">Humidity Icon</string>
+    <string name="PressureIcon">Pressure Icon</string>
+    <string name="WindSpeedIcon">WindSpeed Icon</string>
+
+    <string name="WeatherDesc" />
+
+
+    <string name="Temp" />
+    <string name="WindSpeed" />
+    <string name="Pressure" />
+    <string name="Humidity" />
+</resources>
